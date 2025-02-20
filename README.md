@@ -15,3 +15,6 @@
 
 # Create a Product Store Catalog
 ![Screenshot from 2025-02-20 17-57-10](https://github.com/user-attachments/assets/f40397f8-28d3-472e-a106-1bd66b5fef2e)
+
+# Product Display Image
+![Screenshot from 2025-02-20 18-28-52](https://github.com/user-attachments/assets/bfc4745b-2399-499b-943b-7a44625aa7ea)
